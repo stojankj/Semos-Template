@@ -1237,5 +1237,14 @@ body, input, select, textarea {
   display: inline;
   margin: 0;
 }
+
+.listilevo ul li{
+  list-style-position: inside;
+}
+
+.listadesno ol li {
+  list-style-position: inside;
+  margin-right: 44px;
+}
 }
 
